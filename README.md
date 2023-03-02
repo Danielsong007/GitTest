@@ -1,3 +1,4 @@
+- !!Note: create an empty Repo from website firstly, and then clone it. (or you cannot synchronize main branch.)
 - Install git
     - sudo apt-get install git
     - git config --global user.name "user_name"
@@ -15,3 +16,5 @@
     - git branch checkout (local branch name) // change local branch
     - git push origin (remote branch name) // push local branch to remote
     - git push origin :(remote branch name) //delete remote branch
+
+
