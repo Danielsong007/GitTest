@@ -17,5 +17,3 @@
     - git push origin (remote branch name) // push local branch to remote
     - git push origin :(remote branch name) //delete remote branch
 
-
-k
